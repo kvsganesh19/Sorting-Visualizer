@@ -16,8 +16,3 @@ This project is an interactive Sorting Visualizer designed to showcase sorting a
 - **JavaScript**
 - **Sorting Algorithms**
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/shaiksuhana04/Sorting-Visualizer
